@@ -1,0 +1,13 @@
+body {
+color:red;
+background-color: black;
+margin: opx;
+}
+ header{ 
+    
+    border-bottom: solid 2px rgb(249, 5, 5);
+    margin: 20px;
+padding: 20px;
+font-size: 32px;
+color: blueviolet(42,122,228);
+}
